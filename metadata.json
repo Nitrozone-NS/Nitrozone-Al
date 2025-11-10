@@ -1,0 +1,5 @@
+{
+  "name": "AI Assistant",
+  "description": "A conversational AI chat application. Chat about anything, get instant answers, and explore ideas by sending text or images. Compatible with all modern browsers and webview environments.",
+  "requestFramePermissions": []
+}
